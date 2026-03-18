@@ -21,11 +21,8 @@ Excelシートに一覧出力する。
 nagios-conf-to-xlsx/
 ├── create_excel.ps1          # xlsmを生成するPowerShellスクリプト
 ├── nagios-conf-to-xlsx.xlsm  # 成果物（Excelマクロファイル）
-├── docs/
-│   └── spec.md               # 仕様書
-└── sample-data/              # サンプルデータ置き場（gitignore対象）
-    ├── objects.cache
-    └── status.dat
+└── docs/
+    └── spec.md               # 仕様書
 ```
 
 ## 開発ルール
